@@ -1,14 +1,14 @@
-## one day we will meet
+## 😉 one day we will meet
 
-i am Rifat Ilbuldin or rifatikkkk
+💬 i am Rifat Ilbuldin or rifatikkkk 😊
 
-a recent graduate from [Orenburg College of Economics and Informatics "OKSEI"](https://oksei.ru/) with a qualification as a programmer
+📑 a recent graduate from [Orenburg College of Economics and Informatics "OKSEI"](https://oksei.ru/) with a qualification as a programmer 🎁
 
-now i continue to study at [St. Petersburg State Electrotechnical University "LETI"](https://etu.ru/)
+🔍 now i continue to study at [St. Petersburg State Electrotechnical University "LETI"](https://etu.ru/)
 
-developing web applications on the stack MERN
+💻 developing web applications on the stack MERN
 
-feel free to connect with me here:
+🔗 feel free to connect with me here:
 
 [![Gmail Badge](https://img.shields.io/badge/rifatilbuldin51385-green?style=flat-square&logo=gmail&logoColor=%23EA4335&link=mailto:rifatilbuldin51385@gmail.com)](mailto:rifatilbuldin51385@gmail.com)
 [![Instagram Badge](https://img.shields.io/badge/rifatikkkk-yellow?style=flat-square&logo=instagram&logoColor=%23E4405F&link=https://www.instagram.com/rifatikkkk/)](https://www.instagram.com/rifatikkkk)
