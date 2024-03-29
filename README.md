@@ -29,7 +29,9 @@
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-green?style=flat-square&logo=mongodb&logoColor=white&color=%2347A248)
 ![MySQL](https://img.shields.io/badge/MySQL-gray?style=flat-square&logo=mysql&logoColor=white&color=%234479A1)
-![Firebase Badge](https://img.shields.io/badge/Firebase-blue?style=flat-square&logo=firebase&logoColor=%23FFCA28&color=blue)
+![Firebase](https://img.shields.io/badge/Firebase-blue?style=flat-square&logo=firebase&logoColor=%23FFCA28&color=blue)
+
+![Render](https://img.shields.io/badge/Render-white?style=flat-square&logo=render&logoColor=white&color=%2346E3B7)
 
 ![Git](https://img.shields.io/badge/Git-gray?style=flat-square&logo=git&logoColor=white&color=%23F05032)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
