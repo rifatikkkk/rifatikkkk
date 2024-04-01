@@ -36,4 +36,6 @@
 ![VisualStudioCode](https://img.shields.io/badge/Visual_Studio_Code-blue?style=flat-square&logo=visualstudiocode)
 ![Git](https://img.shields.io/badge/Git-gray?style=flat-square&logo=git&logoColor=white&color=%23F05032)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-/*![GitLab](https://img.shields.io/badge/GitLab-gray?style=flat-square&logo=gitlab&color=%23FCA121)*/
+<!--- 
+![GitLab](https://img.shields.io/badge/GitLab-gray?style=flat-square&logo=gitlab&color=%23FCA121)
+--> 
