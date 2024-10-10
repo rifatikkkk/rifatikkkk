@@ -2,9 +2,7 @@
 
 💬 i am Rifat Ilbuldin or rifatikkkk 😊
 
-📑 a recent graduate from [Orenburg College of Economics and Informatics "OKSEI"](https://oksei.ru/) with a qualification as a programmer 🎁
-
-🔍 now i continue to study at [St. Petersburg State Electrotechnical University "LETI"](https://etu.ru/)
+🔍 now i live in Saint-Petersburg
 
 💻 developing web applications on the stack MERN
 
